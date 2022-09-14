@@ -1,0 +1,22 @@
+body{
+  color: white;
+}
+.news-sec{
+  direction: rtl;
+  text-align: right;
+  padding-top: 2.5rem;
+  background: #000000;
+}
+.news-sec .card{
+  background: none;
+  border: none;
+  color: rgb
+}
+.news-sec .card .badge{
+  font-size:0.8rem;
+  margin-bottom:1.2rem;
+  background: #87c66d !important;
+}
+.news-sec .card a.card-link{
+  color: rgb(255, 255, 255) !important;
+}
